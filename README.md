@@ -57,6 +57,8 @@ THEN I am able to successfully create, update, and delete data in my database
 N/A
 
 ## Image and/or Video
+https://watch.screencastify.com/v/0Mt8R2YRXsoAG7BiWn60
+https://watch.screencastify.com/v/RAh7TlQashCThEhuLZLH
 
 
 ## Usage Instructions
